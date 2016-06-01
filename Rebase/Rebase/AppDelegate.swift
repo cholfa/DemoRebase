@@ -33,6 +33,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //Comment to raise conflict 4
         //Comment to raise conflict 5
         
+        //Change 1
+        
+        
         return true
         //Comment to raise conflict 1
     }
