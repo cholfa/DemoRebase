@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+
         //Long text just to get into a merge conflict 1
         //Long text just to get into a merge conflict 2
         //Long text just to get into a merge conflict 3
@@ -26,7 +27,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //Long text just to get into a merge conflict 8
         //Long text just to get into a merge conflict 9
         //Long text just to get into a merge conflict 10
+        //Comment to raise conflict 1
+        //Comment to raise conflict 2
+        //Comment to raise conflict 3
+        //Comment to raise conflict 4
+        //Comment to raise conflict 5
+        
         return true
+        //Comment to raise conflict 1
     }
 
     func applicationWillResignActive(application: UIApplication) {
