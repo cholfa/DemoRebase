@@ -16,6 +16,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        //Feature A1
+        
+        //Feature A2
+        
+        
+        //Feature A3
+        
+        //Feature A4
         return true
     }
 
