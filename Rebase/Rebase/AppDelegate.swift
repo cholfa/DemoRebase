@@ -16,12 +16,37 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+
+        //Long text just to get into a merge conflict 1
+        //Long text just to get into a merge conflict 2
+        //Long text just to get into a merge conflict 3
+        //Long text just to get into a merge conflict 4
+        //Long text just to get into a merge conflict 5
+        //Long text just to get into a merge conflict 6
+        //Long text just to get into a merge conflict 7
+        //Long text just to get into a merge conflict 8
+        //Long text just to get into a merge conflict 9
+        //Long text just to get into a merge conflict 10
+        //Comment to raise conflict 1
+        //Comment to raise conflict 2
+        //Comment to raise conflict 3
+        //Comment to raise conflict 4
+        //Comment to raise conflict 5
+        
+        //Change 1
+        
+        
         return true
+        
+        //Change 2
+        //Comment to raise conflict 1
     }
 
     func applicationWillResignActive(application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
         // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
+        
+        //Change 3
     }
 
     func applicationDidEnterBackground(application: UIApplication) {
