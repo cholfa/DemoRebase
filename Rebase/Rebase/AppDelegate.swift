@@ -16,6 +16,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        //Long text just to get into a merge conflict 1
+        //Long text just to get into a merge conflict 2
+        //Long text just to get into a merge conflict 3
+        //Long text just to get into a merge conflict 4
+        //Long text just to get into a merge conflict 5
+        //Long text just to get into a merge conflict 6
+        //Long text just to get into a merge conflict 7
+        //Long text just to get into a merge conflict 8
+        //Long text just to get into a merge conflict 9
+        //Long text just to get into a merge conflict 10
         return true
     }
 
